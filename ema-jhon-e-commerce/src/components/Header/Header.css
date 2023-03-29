@@ -1,0 +1,25 @@
+.header{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    align-items: center;
+}
+
+ nav a {
+text-decoration:none ;
+color: white;
+/* padding-left: 30px ; */
+margin-left: 30px;
+}
+
+nav a:hover{
+    color: coral;
+}
+
+nav img{
+    width: 140px;
+    height: 40px ;
+}
